@@ -1,0 +1,42 @@
+{
+  "sensor-01": {
+    "public_key_b64": "iS3tfFNhCZ1XxZKyLyaYOqhHgYfA1fHkOrUclhIPmtCfLV+zo+ETUISY46TpFHbS",
+    "pop_b64": "g3CxlPSFsugWSNCB2JYbv3LLNpDNblkzcaSMf/Qx680UQLGLKvDV4ENK0DvHVIMiB4IqnQlNh5IDj7BAQRqt71v81VB4phOtvCpcCqb7NiP+IYxeTnHBhUR6Cq8f/V4u"
+  },
+  "sensor-02": {
+    "public_key_b64": "oz38809fTo5vVEJdFYwO0aDQk/rCW0C7HW6+9N5huwpqHkzTr5QJv3ieQmjE85J4",
+    "pop_b64": "koVcZhMXfdobA5gO1mu/f1luf7r7Qik0vaJwWtx/nDuxWg6e3NPiq6jCOHgBdmybGDuYTNeBGYLxK9VllNgYN9pdFwqQqLzmq+KwsbEykBJU+RSRZDJF+X+GdZqBRPup"
+  },
+  "sensor-03": {
+    "public_key_b64": "gteiR9WBovMyoGPcnajTMNDqcIeNEvOyTi+LhCFt+mFI2Nx223U0q1WVRWagdNlU",
+    "pop_b64": "rzbT4kCe7f8kQuYRVav+/dOM5urpDQIUt8MN+Uk2eavg0GxLtOt4A668z0Msu2X0C2iUw9sGcbDa0CWtiEjlbjQUEiqfQAHPqj7GQAPnMClKQ8tz0bS95saXwSs7uls5"
+  },
+  "sensor-04": {
+    "public_key_b64": "rhPSOtIxqhOfB+PrI9Qhn81eM60Cv37HKT3jtbDyGZIS1XkDTDnfvInwmiXtTeFu",
+    "pop_b64": "sRg3MP46Rirfxcf3UBqiwRb5Iav4OyDELpPWk6xNUGyOmnjzCwglxRg/e18S1R3IAPLAWeJzel/1LXbUVQ5x09hv6stP1+Zuoryfv5+HXsVg0AUsKUkdxZSlRcSVar+X"
+  },
+  "sensor-05": {
+    "public_key_b64": "qNNPmy3CkZu0aFYrtVyEMvUjCPq0CTi3M9MPVGJn2Bm+L6F+zIXKmRP2E4QbdmLB",
+    "pop_b64": "tMRtrD1oEOP4dwvG8pubOUFolRE6lEXMKZTsmyoD8230A1/Rwb0pHdGEaBKploUBEItREaK3FSbEP2nOc8SCaWO3Ll2/vjEnTQB7W3I0Dtj497pg74aTH44hMikoJln6"
+  },
+  "sensor-06": {
+    "public_key_b64": "oHelcZ203Wu5xri+kteDK9RCSbFtgDK55QGf+m8RBxmBsWcoq7tequJU5wjnvxmS",
+    "pop_b64": "pWyDFa5FvAXDpNfAOfGdUMvunPs/6cqJHrAg/OayjObuBxWJ6N83KdGR4BNitNFqEcmDGR6gsLiI1o3tBJ8qStiAy2/nsZDXw5aBSGIjtfvy/yOQQRhl67+a7dyyacee"
+  },
+  "sensor-07": {
+    "public_key_b64": "qkVcbBKszZ5qL/LWjQS3ZtzArFlpcyp6tQOiVrfS7UF4EDY/weAGPB563y0mnvYl",
+    "pop_b64": "hzXPxYvPq0mxfLRAd2xpZ0RIDSu+swXmAbOGUWHUIV4rPsFuAKC8XHy1lyZnXCvwEi92mwpURf2b5RdvOJ6ePVYasjydODNiMrphzDm69uGty4Vg4tLMivHIv9EmYZbV"
+  },
+  "sensor-08": {
+    "public_key_b64": "spHk2W1tR9FFPMGJlxxQ0Po37TY7fdgIMWgmMn2IW/qL331bFlOczrVAe9xSJHZO",
+    "pop_b64": "lrTNlfKmRkkZXQKne0TPNMQ973GyFRe4P9zV2Hi82M9oqFcl6ejZwgYZhdldgPOIDCUzLaJU5X16djd8FyQcZ1K1k8jlrBKWstBvLK8VqSu+8BYkleoDxFNGxLYT74z8"
+  },
+  "sensor-09": {
+    "public_key_b64": "juVod38LYqTEHmISCVqS7PHCReVPYAlIYR7WAAlGOeCnH9DCERHQR5iI/mIofS3B",
+    "pop_b64": "sj/kT9xTeaqYvbJLle7DObv32XLssjly2HvlolaESGEXX+i7BdlMZKofHfLVhLU0CyFjDkGaINr2E8sCjVzwhomhfnauMTmdMdZNwfs6NbHSIbsh7q/76Xm/0a335b/J"
+  },
+  "sensor-10": {
+    "public_key_b64": "s2nBtJovVND2QKWCGBhBqGJulBO4c3+9ES3KhDkJayiLpeuLGB2o+BNNjU4rJB0c",
+    "pop_b64": "itJsbMOaa1LJEfR6yA2MH8BNhZaCCmXWRDmtk77WWNJyj5m+OXcD2zNncRJMu2zKEPMDXhI4DZf2r5/cneAUuc3JgDOVZOfiW6gII6TbMroqUoZjVs4UrjrMtdhFjkvN"
+  }
+}
